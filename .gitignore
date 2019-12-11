@@ -1,0 +1,12 @@
+.idea
+cmake-build-debug
+getopt_long
+main
+main.c
+main_long.c
+CMakeFiles
+CMakeCache.txt
+Makefile
+Perceptron_v3.cbp
+cmake_install.cmake
+Perceptron_v3
